@@ -1,0 +1,11 @@
+.flex-box{display: flex; justify-content: center;}
+.sub-group{border: 1px solid #ccc; box-shadow: 0 4px 8px -1px rgb(0 0 0 / 25%); margin-left: -1px}
+.grp-itm{padding: 5px 10px;}
+.grid-row .grp-itm{margin-left: -1px;}
+.grid-body h4{display: none}
+.grid-body .grid-subheader h6{visibility: hidden; height: 0px;}
+.grp-itm h6{font-size: 13px;}
+.grp-itm span{font-size: 13px}
+.grid-body{max-height: 300px; overflow-y: auto;}
+.tmp{width: 221px;}
+.no-data-msg{margin: 30px 0px; text-align: center; font-weight: bold; color: red; font-size: 16px;}
